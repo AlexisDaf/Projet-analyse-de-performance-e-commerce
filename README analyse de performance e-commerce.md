@@ -23,41 +23,35 @@ Analyse temporelle (évolution mensuelle)
 Identification des anomalies (profits négatifs)  
 🔹 3. Visualisation (Power BI)
 Construction d’un modèle de données relationnel
-Création de mesures DAX :
-Sales
-Profit
-Margin %
-Target
-Achievement %
-Développement d’un dashboard interactif
+Création de mesures DAX : Sales, Profit, Margin %, Target, Achievement %, Développement d’un dashboard interactif
 
 ## Dashboard
 Le dashboard permet de suivre :
-Les KPI globaux (CA, profit, marge)
-Les performances par catégorie
-L’évolution mensuelle des ventes et du profit
-La comparaison ventes réelles vs objectifs
-Le taux d’atteinte des objectifs (Achievement %)
+Les KPI globaux (CA, profit, marge)  
+Les performances par catégorie  
+L’évolution mensuelle des ventes et du profit  
+La comparaison ventes réelles vs objectifs  
+Le taux d’atteinte des objectifs (Achievement %)  
 
 ## Insights clés
-Electronics est la catégorie la plus performante, dépassant largement ses objectifs (128%)
-Clothing est en sous-performance, avec seulement 80% des objectifs atteints
-Furniture génère du chiffre d’affaires mais présente une faible rentabilité
-Plusieurs mois présentent un profit négatif, indiquant des périodes non rentables
-La performance globale atteint ~99% des objectifs, avec des disparités importantes entre catégories
+Electronics est la catégorie la plus performante, dépassant largement ses objectifs (128%)  
+Clothing est en sous-performance, avec seulement 80% des objectifs atteints  
+Furniture génère du chiffre d’affaires mais présente une faible rentabilité  
+Plusieurs mois présentent un profit négatif, indiquant des périodes non rentables  
+La performance globale atteint ~99% des objectifs, avec des disparités importantes entre catégories  
 
 ## Recommandations
-Optimiser la stratégie de pricing et les coûts sur la catégorie Furniture
-Analyser les causes de sous-performance de Clothing
-Capitaliser sur la catégorie Electronics comme levier de croissance
-Investiguer les périodes déficitaires pour réduire les pertes
+Optimiser la stratégie de pricing et les coûts sur la catégorie Furniture  
+Analyser les causes de sous-performance de Clothing  
+Capitaliser sur la catégorie Electronics comme levier de croissance  
+Investiguer les périodes déficitaires pour réduire les pertes  
 
 ## Outils utilisés
-Python (Pandas)
-Power BI
+Python (Pandas)  
+Power BI  
 
 ## Conclusion
-Ce projet met en évidence l’importance d’une analyse combinant performance réelle et objectifs pour piloter efficacement un business e-commerce.
-Il démontre également la valeur d’un dashboard interactif pour faciliter la prise de décision.
+Ce projet met en évidence l’importance d’une analyse combinant performance réelle et objectifs pour piloter efficacement un business e-commerce.  
+Il démontre également la valeur d’un dashboard interactif pour faciliter la prise de décision.  
 
 
