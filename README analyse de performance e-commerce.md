@@ -20,7 +20,7 @@ Création de variables (mois, année, marge)
 Calcul des KPI : chiffre d’affaires, profit, marge
 Analyse par catégorie
 Analyse temporelle (évolution mensuelle)
-Identification des anomalies (profits négatifs)
+Identification des anomalies (profits négatifs)  
 🔹 3. Visualisation (Power BI)
 Construction d’un modèle de données relationnel
 Création de mesures DAX :
