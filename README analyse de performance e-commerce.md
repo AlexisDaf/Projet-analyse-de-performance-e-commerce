@@ -15,7 +15,7 @@ Sales Target : objectifs de ventes par catégorie et par mois
 Nettoyage des données (valeurs manquantes, formats)
 Conversion des types (dates, variables numériques)
 Fusion des tables via les clés de jointure
-Création de variables (mois, année, marge)
+Création de variables (mois, année, marge)//
 🔹 2. Analyse exploratoire
 Calcul des KPI : chiffre d’affaires, profit, marge
 Analyse par catégorie
