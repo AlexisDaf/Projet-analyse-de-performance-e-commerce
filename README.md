@@ -10,7 +10,7 @@ Un site e-commerce réalise **432 K de chiffre d'affaires** sur 12 mois (avril 2
 
 La marge globale s'établit à **5,6 %** (24 K de profit), mais elle masque une performance très instable : l'entreprise a perdu de l'argent pendant six mois consécutifs.
 
-*Les montants sont exprimés dans l'unité monétaire du jeu de données.*
+*Données : jeu public [E-Commerce Data](https://www.kaggle.com/datasets/benroshan/ecommerce-data) (Kaggle), fichiers `List of Orders`, `Order Details` et `Sales target`. Les montants sont exprimés dans l'unité monétaire du jeu de données.*
 
 ---
 
