@@ -8,7 +8,7 @@ Un site e-commerce réalise **432 K de chiffre d'affaires** sur 12 mois (avril 2
 * 💻 Electronics
 * 🛋️ Furniture
 
-La marge globale s'établit à **5,5 %** (24 K de profit), mais elle masque une performance très instable : l'entreprise a perdu de l'argent pendant six mois consécutifs.
+La marge globale s'établit à **5,6 %** (24 K de profit), mais elle masque une performance très instable : l'entreprise a perdu de l'argent pendant six mois consécutifs.
 
 *Les montants sont exprimés dans l'unité monétaire du jeu de données.*
 
@@ -28,7 +28,7 @@ La marge globale s'établit à **5,5 %** (24 K de profit), mais elle masque une 
 | ------------------- | -----: |
 | Chiffre d'affaires  | 432 K  |
 | Profit              | 24 K   |
-| Marge globale       | 5,5 %  |
+| Marge globale       | 5,6 %  |
 | Mois déficitaires   | 6 / 12 |
 
 ### Analyse temporelle : deux semestres opposés
